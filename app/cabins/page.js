@@ -1,11 +1,11 @@
 export const metadata = {
-  title: "Cabins",
-};
+    title: "Cabins",
+}
 
 export default function Page() {
-  return (
-    <div>
-      <h1>Cabins page</h1>
-    </div>
-  );
+    return (
+        <div>
+            <h1>Cabins page</h1>
+        </div>
+    )
 }
