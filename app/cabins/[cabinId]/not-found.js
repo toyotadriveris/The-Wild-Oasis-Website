@@ -7,10 +7,10 @@ function NotFound() {
                 This page could not be found :(
             </h1>
             <Link
-                href="/"
+                href="/cabins"
                 className="inline-block bg-accent-500 px-6 py-3 text-lg text-primary-800"
             >
-                Go back home
+                Go back to cabins
             </Link>
         </main>
     )
