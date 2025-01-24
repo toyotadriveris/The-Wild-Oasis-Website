@@ -11,7 +11,7 @@
     },
     "dependencies": {
         "@heroicons/react": "^2.2.0",
-        "@supabase/supabase-js": "^2.47.16",
+        "@supabase/supabase-js": "^2.42.1",
         "date-fns": "^4.1.0",
         "eslint-config-prettier": "^10.0.1",
         "next": "14.2.23",
